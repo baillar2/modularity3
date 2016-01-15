@@ -1,1 +1,126 @@
-/* ADD YOUR STYLES HERE */
+/* SIGNUP FORM ONE*/
+.form-one {
+	line-height: 2.3;
+}
+
+.label-one {
+	display: inline-block;
+	width: 11%;
+	text-align: right;
+}
+
+.input-one {
+	display: inline-block;
+	width: 19rem;
+	height: 1.3rem;
+    border: thin solid lightgrey;
+    border-radius: 3px;
+    margin-left: 3%;
+}
+/* SIGNUP FORM TWO*/
+.form-two {
+	line-height: 2.3;
+}
+
+.label-two {
+	display: inline-block;
+	width: 11%;
+	text-align: right;
+}
+
+.input-two {
+	display: inline-block;
+	width: 19rem;
+	height: 1.3rem;
+    border: thin solid lightgrey;
+    border-radius: 3px;
+    margin-left: 3%;
+}
+
+.input-city {
+	display: inline-block;
+	width: 11rem;
+	height: 1.3rem;
+	border:thin solid lightgrey;
+	border-radius: 3px;
+	margin-left: 3%;
+}
+.input-state {
+	display: inline-block;
+	width: 2rem;
+	height: 1.3rem;
+    border: thin solid lightgrey;
+    border-radius: 3px;
+    margin-left: 3%; 
+}
+.label-state {
+	display: inline-block;
+	width: 8%;
+	text-align: right;
+}
+.checkbox {
+	margin: auto;
+	width: 30rem;
+}
+
+.submit-btn {
+	margin-left: 21%;
+    display: inline-block;
+    width: 10rem;
+    border: thin solid lightgrey;
+    border-radius: 3px;
+    background-color: lightgrey;
+}
+/* FORM VAILIDATION */
+
+.form-three {
+	line-height: 2.3;
+}
+
+.label-three {
+	display: inline-block;
+	width: 11%;
+	text-align: right;
+}
+
+.input-three {
+	display: inline-block;
+	width: 19rem;
+	height: 1.3rem;
+    border: thin solid lightgrey;
+    border-radius: 3px;
+    margin-left: 3%;
+}
+.is-valid {
+	margin-left: .5rem;
+	color: green;
+}
+.is-invalid {
+	margin-left: .5rem;
+	color: red;
+}
+.valid {
+	box-shadow: 2px 2px 5px green;
+}
+.invalid {
+	box-shadow: 2px 2px 5px red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
